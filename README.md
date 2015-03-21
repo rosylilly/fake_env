@@ -1,5 +1,8 @@
 # FakeEnv
 
+[![Gem Version](https://badge.fury.io/rb/fake_env.svg)](http://badge.fury.io/rb/fake_env)
+[![Build Status](https://travis-ci.org/rosylilly/fake_env.svg)](https://travis-ci.org/rosylilly/fake_env)
+
 A fake `ENV` for your tests.
 
 ## Usage
