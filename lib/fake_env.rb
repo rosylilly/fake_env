@@ -1,4 +1,3 @@
-require 'thread'
 require 'fake_env/version'
 
 module FakeEnv
